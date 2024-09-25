@@ -29,8 +29,8 @@ const ProjectsList = [
     {
         id: 4,
         title: 'portfolio',
-        link: 'https://tours-travel-pro.vercel.app',
-        github: 'https://github.com/chiragjain307/Tours-Travel',
+        link: 'https://vocal-starship-9fbd7b.netlify.app/',
+        github: 'https://github.com/monupal057/PP',
         image: img4
     },
     

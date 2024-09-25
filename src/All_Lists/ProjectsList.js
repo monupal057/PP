@@ -1,7 +1,7 @@
 import img1 from '../assets/todoApp.png'
 import img2 from '../assets/E-Commerce.png'
 import img3 from '../assets/blog.png'
-import img4 from '../assets/tours-travel.png'
+import img4 from '../assets/portfolio.png'
 
 const ProjectsList = [
     {
@@ -28,7 +28,7 @@ const ProjectsList = [
     },
     {
         id: 4,
-        title: 'Tours & Travel',
+        title: 'portfolio',
         link: 'https://tours-travel-pro.vercel.app',
         github: 'https://github.com/chiragjain307/Tours-Travel',
         image: img4
